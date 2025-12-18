@@ -18,9 +18,10 @@
     "noFallthroughCasesInSwitch": true,
     "baseUrl": ".",
     "paths": {
-      "@/*": ["src/*"]
+      "@/*": ["src/*"],
+      "@ui8kit/core": ["src/components/ui8kit"]
     }
   },
-  "include": ["src/*"],
+  "include": ["src"],
   "references": [{ "path": "./tsconfig.node.json" }]
 } 

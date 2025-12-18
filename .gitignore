@@ -11,4 +11,5 @@ bun.lockb
 package-lock.json
 .manual/
 .cursor/
+.project
 .cursorignore

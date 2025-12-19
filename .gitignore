@@ -13,3 +13,8 @@ package-lock.json
 .cursor/
 .project
 .cursorignore
+
+# Test artifacts
+coverage/
+tmp/
+*.log
